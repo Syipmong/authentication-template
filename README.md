@@ -1,6 +1,6 @@
 # Authentication Template
 
-This project provides a template for implementing authentication in your application. It includes basic setup and configuration for user registration, login, and session management.
+This project provides a comprehensive template for implementing authentication in your application. It includes setup and configuration for user registration, login, and session management.
 
 ## Features
 
@@ -20,18 +20,25 @@ This project provides a template for implementing authentication in your applica
 ### Installation
 
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/yourusername/authentication-template.git
     ```
+
 2. Navigate to the project directory:
+
     ```bash
     cd authentication-template
     ```
+
 3. Install dependencies:
+
     ```bash
     npm install
     ```
+
     or
+
     ```bash
     yarn install
     ```
@@ -39,6 +46,7 @@ This project provides a template for implementing authentication in your applica
 ### Configuration
 
 1. Create a `.env` file in the root directory and add the following environment variables:
+
     ```env
     PORT=3000
     DATABASE_URL=your_database_url
@@ -48,10 +56,13 @@ This project provides a template for implementing authentication in your applica
 ### Running the Application
 
 1. Start the development server:
+
     ```bash
     npm start
     ```
+
     or
+
     ```bash
     yarn start
     ```
@@ -73,3 +84,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 <!-- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. -->
 
 ## Acknowledgements
+
+Special thanks to all the contributors and open-source projects that made this template possible.
