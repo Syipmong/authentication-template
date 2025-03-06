@@ -22,7 +22,7 @@ This project provides a comprehensive template for implementing authentication i
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/authentication-template.git
+    git clone https://github.com/syipmong/authentication-template.git
     ```
 
 2. Navigate to the project directory:
