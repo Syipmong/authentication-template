@@ -7,6 +7,7 @@ This project provides a comprehensive template for implementing authentication i
 - User registration
 - User login
 - Session management
+- middleware
 - Password hashing
 - Token-based authentication
 
