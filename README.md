@@ -40,7 +40,7 @@ This project provides a comprehensive template for implementing authentication i
     or
 
     ```bash
-    yarn install
+    pnpm install
     ```
 
 ### Configuration
@@ -48,9 +48,7 @@ This project provides a comprehensive template for implementing authentication i
 1. Create a `.env` file in the root directory and add the following environment variables:
 
     ```env
-    PORT=3000
     DATABASE_URL=your_database_url
-    JWT_SECRET=your_jwt_secret
     ```
 
 ### Running the Application
